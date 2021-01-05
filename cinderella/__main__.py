@@ -42,7 +42,7 @@ the things I can help you with.
  💠 - /start: start the bot
  💠 - /help: PM's you this message.
  💠 - /help <module name>: PM's you info about that module.
- 💠 - /source: Information about my source.
+ 💠 - .
  💠 - /settings:
    🔹 - in PM: will send you your settings for all supported modules.
    🔹 - in a group: will redirect you to pm, with all that chat's settings.
@@ -79,7 +79,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://www.betabreakers.com/wp-content/uploads/2016/05/38699913_S.jpg"
+    img = "https://telegra.ph/file/466ed1e1e1bc45baf2390.jpg"
 else:
   img = START_IMG    
     
